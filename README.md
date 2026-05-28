@@ -226,4 +226,4 @@ WX 2100 ไม่มี native driver ใน macOS Tahoe — ต้อง spoof 
 
 ---
 
-*Made with ❤️ by [suanaph](https://github.com/J4olahmXDev) · Bangkok, TH*
+*Made by [suanaph](https://github.com/J4olahmXDev) ·  TH*
